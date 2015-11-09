@@ -11,7 +11,7 @@ receiving them  from different servers. The tool runs on Python 2.7.
 
 To parse `*.log` file
 
-    $  python parser.py < server.log
+    $  python parser.py < server_1.log
 
 To combine multiple *.json files
 
