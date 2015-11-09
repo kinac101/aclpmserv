@@ -9,16 +9,17 @@ DenBeke's AC log parser tool for managing the (i.) parsing of `*.log` files; and
 (ii.) the merging of multiple parsed `*.log` files (in `*.json` format) upon
 receiving them  from different servers. The tool runs on Python 2.7.
 
+To install dependencies
+
+    sudo pip install -U jsonpickle
+
 To parse `*.log` file
 
-    $  python parser.py < server_1.log
+    python parser.py < server_1.log > server_1.json
 
 To combine multiple *.json files
 
-    $  python parser.py combine
-
-Output for both of these features is written to an automatically generated
-`output.json` file.
+    python parser.py combine > sample-combine.json
 
 **Authors**
 

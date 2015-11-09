@@ -158,38 +158,42 @@ def mergejson():
     players = []
     total = {}
     for foo in os.listdir(os.getcwd()):
-        if foo.endswith(".json") and not foo == "output.json":
-            usrdict = json.load(open(foo))
-            if players == []:
-                for name in usrdict["players"]:
-                    players.append(usrdict["players"][name])
-            else:
-                for name in usrdict["players"]:
-                    player = usrdict["players"][name]
-                    explayer = filter(lambda foo: foo["name"] == name, players)
-                    if explayer == []:
-                        players.append(player)
-                    else:
-                        explayer = explayer[0]
-                        # add new, non-nested elements
-                        for bar in set(player) - set(explayer):
-                            explayer.update({"%s" % bar: player[bar]})
-                        # update non-nested elements
-                        for bar in set(player) - set(
-                            ["flagactions", "killactions"]):
-                            if type(explayer[bar]).__name__ == "int":
-                                explayer[bar] = explayer[bar] + player[bar]
-                        # update nested element
-                        for bar in ["flagactions", "killactions"]:
-                            explayer[bar] = dict(Counter(explayer[bar]) + \
-                                                 Counter(player[bar]))
-                        # update lastseen
-                        if player["lastseen"] > explayer["lastseen"]:
-                            explayer["lastseen"] = player["lastseen"]
-            if total == {}:
-                total = usrdict["total"]
-            else:
-                total = dict(Counter(total) + Counter(usrdict["total"]))
+        if foo.endswith(".json"):
+            try:
+                usrdict = json.load(open(foo))
+                if players == []:
+                    for name in usrdict["players"]:
+                        players.append(usrdict["players"][name])
+                else:
+                    for name in usrdict["players"]:
+                        player = usrdict["players"][name]
+                        explayer = filter(
+                            lambda foo: foo["name"] == name, players)
+                        if explayer == []:
+                            players.append(player)
+                        else:
+                            explayer = explayer[0]
+                            # add new, non-nested elements
+                            for bar in set(player) - set(explayer):
+                                explayer.update({"%s" % bar: player[bar]})
+                            # update non-nested elements
+                            for bar in set(player) - set(
+                                ["flagactions", "killactions"]):
+                                if type(explayer[bar]).__name__ == "int":
+                                    explayer[bar] = explayer[bar] + player[bar]
+                            # update nested element
+                            for bar in ["flagactions", "killactions"]:
+                                explayer[bar] = dict(Counter(explayer[bar]) + \
+                                                     Counter(player[bar]))
+                            # update lastseen
+                            if player["lastseen"] > explayer["lastseen"]:
+                                explayer["lastseen"] = player["lastseen"]
+                if total == {}:
+                    total = usrdict["total"]
+                else:
+                    total = dict(Counter(total) + Counter(usrdict["total"]))
+            except:
+                pass
     acinfo = {"players": players, "total": total}
     return json.dumps(acinfo, indent=4)
 
@@ -200,7 +204,7 @@ if __name__ == "__main__":
             p.parseline(line)
         output = json.dumps(json.loads(jsonpickle.encode(p, unpicklable=False)),
                             indent=4)
-        open("output.json", "w").write(output)
+        print output
     elif sys.argv[1] == "combine":
         output = mergejson()
-        open("output.json", "w").write(output)
+        print output
