@@ -20,5 +20,13 @@ To combine multiple *.json files
 Output for both of these features is written to an automatically generated
 `output.json` file.
 
+**Authors**
+
+* Mathias Beke ([denbeke.be](https://denbeke.be)) made the initial version of
+the log parser. Kindly refer to
+[his project](https://github.com/DenBeke/AC-Log-Parser) for more information
+* Kinac101 ([kinac.ml](http://www.kinac.ml)) added the parsing of lastseen
+timestamp and the merging of multiple *.json files
+
 Want to know more about KiN? See [kinac.ml](http://www.kinac.ml) for more
 information. We are recruiting.
