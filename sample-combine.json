@@ -1,0 +1,5956 @@
+{
+    "players": [
+        {
+            "name": "RiCardOWater", 
+            "kills": 34, 
+            "teamkills": 4, 
+            "flagactions": {}, 
+            "ip": "82.228.193.135", 
+            "time": 199, 
+            "teamkilled": 8, 
+            "killed": 31, 
+            "killactions": {
+                "busted": 9, 
+                "sprayed": 15, 
+                "gibbed": 6, 
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443088308.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Vihari/BY\\qsdff", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "151.249.248.97", 
+            "time": 273, 
+            "teamkilled": 1, 
+            "killed": 5, 
+            "killactions": {
+                "busted": 1, 
+                "headshot": 1, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443089268.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ShotgunJo", 
+            "kills": 46, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 7, 
+                "stole": 14, 
+                "returned": 1, 
+                "lost": 5
+            }, 
+            "ip": "163.47.12.26", 
+            "time": 487, 
+            "teamkilled": 7, 
+            "killed": 30, 
+            "killactions": {
+                "shredded": 10, 
+                "peppered": 1, 
+                "gibbed": 9, 
+                "busted": 1, 
+                "headshot": 15, 
+                "punctured": 10
+            }, 
+            "lastseen": 1443089868.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 2, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "H.A.C.K.E.R", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "186.45.5.188", 
+            "time": 103, 
+            "teamkilled": 1, 
+            "killed": 7, 
+            "killactions": {}, 
+            "lastseen": 1443090888.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "tumba", 
+            "kills": 15, 
+            "teamkills": 12, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 1, 
+            "killactions": {
+                "headshot": 15
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 1
+        }, 
+        {
+            "name": "branko", 
+            "kills": 41, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "178.220.126.26", 
+            "time": 945, 
+            "teamkilled": 4, 
+            "killed": 34, 
+            "killactions": {
+                "peppered": 7, 
+                "splattered": 5, 
+                "gibbed": 4, 
+                "headshot": 9, 
+                "punctured": 16
+            }, 
+            "lastseen": 1443616019.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "joice", 
+            "kills": 3, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 27, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "headshot": 3
+            }, 
+            "lastseen": 1443088968.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "flash68", 
+            "kills": 6, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "79.132.36.46", 
+            "time": 1604, 
+            "teamkilled": 2, 
+            "killed": 11, 
+            "killactions": {
+                "shredded": 4, 
+                "busted": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443088608.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 1
+        }, 
+        {
+            "name": "ASHTHEBEST", 
+            "kills": 15, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "14.96.200.133", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 15, 
+            "killactions": {
+                "busted": 4, 
+                "gibbed": 2, 
+                "headshot": 6, 
+                "punctured": 3
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Privet", 
+            "kills": 16, 
+            "teamkills": 1, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "5.251.3.11", 
+            "time": 231, 
+            "teamkilled": 3, 
+            "killed": 7, 
+            "killactions": {
+                "sprayed": 5, 
+                "gibbed": 1, 
+                "busted": 10
+            }, 
+            "lastseen": 1443088668.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Dicr[RUS]", 
+            "kills": 1, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "193.201.206.218", 
+            "time": 2101, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "gibbed": 1
+            }, 
+            "lastseen": 1443614339.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Altair", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "5.36.154.132", 
+            "time": 500, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443090408.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KiN|Ezio", 
+            "kills": 11, 
+            "teamkills": 4, 
+            "flagactions": {}, 
+            "ip": "188.247.79.231", 
+            "time": 719, 
+            "teamkilled": 1, 
+            "killed": 14, 
+            "killactions": {
+                "punctured": 2, 
+                "headshot": 8, 
+                "slashed": 1
+            }, 
+            "lastseen": 1443625079.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "damone", 
+            "kills": 8, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "88.219.36.140", 
+            "time": 521, 
+            "teamkilled": 2, 
+            "killed": 30, 
+            "killactions": {
+                "shredded": 1, 
+                "sprayed": 3, 
+                "picked off": 1, 
+                "punctured": 2, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443091128.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "__Rufus__", 
+            "kills": 14, 
+            "teamkills": 2, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "209.123.120.198", 
+            "time": 1056, 
+            "teamkilled": 2, 
+            "killed": 21, 
+            "killactions": {
+                "gibbed": 3, 
+                "headshot": 5, 
+                "punctured": 6
+            }, 
+            "lastseen": 1443089088.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Itehnological", 
+            "kills": 23, 
+            "teamkills": 3, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "84.40.98.164", 
+            "time": 1876, 
+            "teamkilled": 10, 
+            "killed": 61, 
+            "killactions": {
+                "shredded": 2, 
+                "gibbed": 5, 
+                "headshot": 1, 
+                "punctured": 15
+            }, 
+            "lastseen": 1443089688.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "tade", 
+            "kills": 33, 
+            "teamkills": 9, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "179.85.128.155", 
+            "time": 480, 
+            "teamkilled": 1, 
+            "killed": 11, 
+            "killactions": {
+                "headshot": 29, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443088848.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Brazuca", 
+            "kills": 27, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "177.200.105.2", 
+            "time": 914, 
+            "teamkilled": 1, 
+            "killed": 9, 
+            "killactions": {
+                "shredded": 17, 
+                "busted": 6, 
+                "gibbed": 4
+            }, 
+            "lastseen": 1443089508.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "zex", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {
+                "returned": 2
+            }, 
+            "ip": "77.46.229.31", 
+            "time": 617, 
+            "teamkilled": 0, 
+            "killed": 8, 
+            "killactions": {
+                "sprayed": 5, 
+                "gibbed": 1, 
+                "busted": 3
+            }, 
+            "lastseen": 1443089328.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Paddy", 
+            "kills": 9, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "93.107.210.134", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 25, 
+            "killactions": {
+                "sprayed": 1, 
+                "shredded": 2, 
+                "peppered": 1, 
+                "busted": 3, 
+                "punctured": 1, 
+                "picked off": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "sarah", 
+            "kills": 1, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 37, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "headshot": 1
+            }, 
+            "lastseen": 1443088188.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SnowflakNasrani", 
+            "kills": 8, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "198.163.115.94", 
+            "time": 333, 
+            "teamkilled": 0, 
+            "killed": 10, 
+            "killactions": {
+                "sprayed": 6, 
+                "busted": 2
+            }, 
+            "lastseen": 1443622559.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Macouille", 
+            "kills": 7, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "109.94.35.175", 
+            "time": 361, 
+            "teamkilled": 2, 
+            "killed": 12, 
+            "killactions": {
+                "sprayed": 7
+            }, 
+            "lastseen": 1443089628.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "tadeu", 
+            "kills": 9, 
+            "teamkills": 6, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 198, 
+            "teamkilled": 0, 
+            "killed": 5, 
+            "killactions": {
+                "headshot": 7, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443089028.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 1
+        }, 
+        {
+            "name": "zabi.", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "108.76.104.197", 
+            "time": 2, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443088668.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "murderface", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "198.137.20.93", 
+            "time": 74, 
+            "teamkilled": 1, 
+            "killed": 4, 
+            "killactions": {}, 
+            "lastseen": 1443091788.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "N#1", 
+            "kills": 125, 
+            "teamkills": 10, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 4, 
+                "lost": 2
+            }, 
+            "ip": "85.90.171.46", 
+            "time": 124, 
+            "teamkilled": 13, 
+            "killed": 44, 
+            "killactions": {
+                "shredded": 5, 
+                "sprayed": 91, 
+                "splattered": 1, 
+                "gibbed": 11, 
+                "busted": 17
+            }, 
+            "lastseen": 1443089448.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "olekolek", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "84.156.222.151", 
+            "time": 219, 
+            "teamkilled": 0, 
+            "killed": 16, 
+            "killactions": {
+                "sprayed": 2
+            }, 
+            "lastseen": 1443089868.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ExTeR", 
+            "kills": 32, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 5, 
+                "lost": 2
+            }, 
+            "ip": "201.191.158.64", 
+            "time": 1675, 
+            "teamkilled": 3, 
+            "killed": 34, 
+            "killactions": {
+                "punctured": 11, 
+                "busted": 5, 
+                "gibbed": 6, 
+                "headshot": 5, 
+                "slashed": 5
+            }, 
+            "lastseen": 1443629460.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "wacko_D[IND]", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "", 
+            "time": 442, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443088308.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Riot_Alynna", 
+            "kills": 5, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "112.200.135.218", 
+            "time": 825, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443088308.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ELANM_3rb", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "37.217.128.124", 
+            "time": 985, 
+            "teamkilled": 2, 
+            "killed": 6, 
+            "killactions": {
+                "punctured": 1, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443088548.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "disconnecting", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {
+                "dropped": 9
+            }, 
+            "ip": "92.142.147.37", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "//-//", 
+            "kills": 10, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "90.25.175.91", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "sprayed": 8, 
+                "gibbed": 2
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "rios", 
+            "kills": 7, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 152, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "headshot": 6, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443089508.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "x", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "37.106.127.24", 
+            "time": 429, 
+            "teamkilled": 0, 
+            "killed": 12, 
+            "killactions": {
+                "splattered": 2, 
+                "gibbed": 1
+            }, 
+            "lastseen": 1443618599.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".i.", 
+            "kills": 8, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "83.254.139.201", 
+            "time": 340, 
+            "teamkilled": 0, 
+            "killed": 5, 
+            "killactions": {
+                "sprayed": 5, 
+                "gibbed": 1, 
+                "slashed": 2
+            }, 
+            "lastseen": 1443091728.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SkyHal[Sniping]", 
+            "kills": 27, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "86.222.200.55", 
+            "time": 1108, 
+            "teamkilled": 2, 
+            "killed": 29, 
+            "killactions": {
+                "busted": 3, 
+                "sprayed": 1, 
+                "gibbed": 1, 
+                "headshot": 11, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443091548.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "algeria001", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "41.102.115.93", 
+            "time": 291, 
+            "teamkilled": 1, 
+            "killed": 8, 
+            "killactions": {
+                "shredded": 1, 
+                "splattered": 1
+            }, 
+            "lastseen": 1443621779.0, 
+            "visits": 2, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "mel", 
+            "kills": 16, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "82.132.221.233", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 14, 
+            "killactions": {
+                "shredded": 11, 
+                "busted": 4, 
+                "gibbed": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Mrcreeps642", 
+            "kills": 5, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "85.218.49.113", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "splattered": 2, 
+                "peppered": 3
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ISEL|bmrpinto", 
+            "kills": 5, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "194.210.195.210", 
+            "time": 727, 
+            "teamkilled": 0, 
+            "killed": 28, 
+            "killactions": {
+                "gibbed": 1, 
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443616259.0, 
+            "visits": 7, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "crash", 
+            "kills": 72, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 2, 
+                "stole": 4, 
+                "returned": 3, 
+                "lost": 3
+            }, 
+            "ip": "167.59.63.187", 
+            "time": 1931, 
+            "teamkilled": 5, 
+            "killed": 45, 
+            "killactions": {
+                "sprayed": 17, 
+                "punctured": 8, 
+                "gibbed": 11, 
+                "busted": 19, 
+                "headshot": 12, 
+                "slashed": 5
+            }, 
+            "lastseen": 1443090228.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 1, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "typhon", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "79.33.254.55", 
+            "time": 159, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 1443089328.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "LagMan", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "212.92.137.16", 
+            "time": 7, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443091368.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "costa", 
+            "kills": 8, 
+            "teamkills": 6, 
+            "flagactions": {}, 
+            "ip": "179.85.128.155", 
+            "time": 0, 
+            "teamkilled": 2, 
+            "killed": 4, 
+            "killactions": {
+                "headshot": 8
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "TiDrug", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "103.252.164.92", 
+            "time": 2, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443089628.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SniperZ", 
+            "kills": 35, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "108.76.104.197", 
+            "time": 0, 
+            "teamkilled": 4, 
+            "killed": 31, 
+            "killactions": {
+                "peppered": 2, 
+                "gibbed": 22, 
+                "busted": 6, 
+                "headshot": 1, 
+                "punctured": 3, 
+                "splattered": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Pennywise", 
+            "kills": 1, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "92.142.147.37", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Extriot", 
+            "kills": 4, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "82.228.189.193", 
+            "time": 1577, 
+            "teamkilled": 1, 
+            "killed": 12, 
+            "killactions": {
+                "busted": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443088548.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Hope_with_Dope", 
+            "kills": 66, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "91.141.0.3", 
+            "time": 1714, 
+            "teamkilled": 3, 
+            "killed": 41, 
+            "killactions": {
+                "shredded": 34, 
+                "busted": 2, 
+                "gibbed": 30
+            }, 
+            "lastseen": 1443091728.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "BEHINDtheMUSGO", 
+            "kills": 18, 
+            "teamkills": 4, 
+            "flagactions": {}, 
+            "ip": "83.33.184.99", 
+            "time": 1152, 
+            "teamkilled": 8, 
+            "killed": 68, 
+            "killactions": {
+                "busted": 2, 
+                "gibbed": 4, 
+                "headshot": 8, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443091608.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ISEL|Joni_16", 
+            "kills": 5, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "194.210.193.137", 
+            "time": 115, 
+            "teamkilled": 1, 
+            "killed": 5, 
+            "killactions": {
+                "busted": 1, 
+                "gibbed": 1, 
+                "punctured": 1, 
+                "peppered": 2
+            }, 
+            "lastseen": 1443088728.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Frizz", 
+            "kills": 30, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.52.189.72", 
+            "time": 84, 
+            "teamkilled": 1, 
+            "killed": 11, 
+            "killactions": {
+                "sprayed": 22, 
+                "busted": 8
+            }, 
+            "lastseen": 1443091128.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "capivara", 
+            "kills": 2, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1, 
+                "returned": 1, 
+                "lost": 1
+            }, 
+            "ip": "187.55.195.26", 
+            "time": 286, 
+            "teamkilled": 0, 
+            "killed": 7, 
+            "killactions": {
+                "shredded": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443088788.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SILAMO", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "41.102.129.95", 
+            "time": 7, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443091608.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JohnSutter", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.121.186.70", 
+            "time": 468, 
+            "teamkilled": 1, 
+            "killed": 6, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 1443088248.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SOS-PCMG", 
+            "kills": 11, 
+            "teamkills": 0, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "191.53.35.215", 
+            "time": 379, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "busted": 1, 
+                "gibbed": 1, 
+                "headshot": 1, 
+                "punctured": 8
+            }, 
+            "lastseen": 1443088908.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Ivan_Susanin", 
+            "kills": 101, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "2.102.238.95", 
+            "time": 888, 
+            "teamkilled": 3, 
+            "killed": 74, 
+            "killactions": {
+                "slashed": 5, 
+                "busted": 28, 
+                "gibbed": 16, 
+                "headshot": 33, 
+                "punctured": 19
+            }, 
+            "lastseen": 1443090228.0, 
+            "visits": 1, 
+            "suicides": 8, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "amin", 
+            "kills": 28, 
+            "teamkills": 1, 
+            "flagactions": {
+                "stole": 3, 
+                "returned": 1, 
+                "lost": 3
+            }, 
+            "ip": "197.38.229.206", 
+            "time": 1281, 
+            "teamkilled": 1, 
+            "killed": 43, 
+            "killactions": {
+                "peppered": 2, 
+                "gibbed": 3, 
+                "busted": 2, 
+                "headshot": 11, 
+                "punctured": 9, 
+                "splattered": 1
+            }, 
+            "lastseen": 1443090228.0, 
+            "visits": 2, 
+            "suicides": 2, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Kingsman", 
+            "kills": 55, 
+            "teamkills": 8, 
+            "flagactions": {}, 
+            "ip": "46.165.95.201", 
+            "time": 2188, 
+            "teamkilled": 3, 
+            "killed": 119, 
+            "killactions": {
+                "sprayed": 3, 
+                "punctured": 14, 
+                "gibbed": 16, 
+                "busted": 17, 
+                "headshot": 4, 
+                "slashed": 1
+            }, 
+            "lastseen": 1443091788.0, 
+            "visits": 1, 
+            "suicides": 7, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "headshot-hack", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "unarmed", 
+            "kills": 86, 
+            "teamkills": 9, 
+            "flagactions": {
+                "scored": 11, 
+                "stole": 22, 
+                "returned": 8, 
+                "lost": 9, 
+                "dropped": 2
+            }, 
+            "ip": "80.236.41.61", 
+            "time": 4124, 
+            "teamkilled": 17, 
+            "killed": 125, 
+            "killactions": {
+                "sprayed": 18, 
+                "shredded": 12, 
+                "peppered": 1, 
+                "gibbed": 3, 
+                "slashed": 1, 
+                "busted": 8, 
+                "headshot": 16, 
+                "punctured": 25, 
+                "splattered": 2
+            }, 
+            "lastseen": 1443662941.0, 
+            "visits": 18, 
+            "suicides": 1, 
+            "flagteamkilled": 3, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Omasta", 
+            "kills": 78, 
+            "teamkills": 9, 
+            "flagactions": {}, 
+            "ip": "89.65.245.14", 
+            "time": 0, 
+            "teamkilled": 4, 
+            "killed": 30, 
+            "killactions": {
+                "sprayed": 37, 
+                "gibbed": 28, 
+                "busted": 13
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "[SS]pegleg", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "69.200.246.200", 
+            "time": 28, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443088608.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "l", 
+            "kills": 24, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "78.190.66.170", 
+            "time": 0, 
+            "teamkilled": 3, 
+            "killed": 12, 
+            "killactions": {
+                "shredded": 21, 
+                "busted": 3
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Aranas", 
+            "kills": 5, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "85.26.36.93", 
+            "time": 512, 
+            "teamkilled": 3, 
+            "killed": 29, 
+            "killactions": {
+                "punctured": 3, 
+                "peppered": 2
+            }, 
+            "lastseen": 1443091248.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "PoseidonWrath", 
+            "kills": 7, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "88.121.94.109", 
+            "time": 213, 
+            "teamkilled": 1, 
+            "killed": 7, 
+            "killactions": {
+                "shredded": 5, 
+                "busted": 2
+            }, 
+            "lastseen": 1443090888.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "client", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "201.191.158.64", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "headshot": 2
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "nems92", 
+            "kills": 2, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "85.69.208.197", 
+            "time": 175, 
+            "teamkilled": 0, 
+            "killed": 9, 
+            "killactions": {
+                "shredded": 1, 
+                "picked off": 1
+            }, 
+            "lastseen": 1443090768.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "adam", 
+            "kills": 2, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "", 
+            "time": 796, 
+            "teamkilled": 0, 
+            "killed": 10, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443088188.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "arkanine", 
+            "kills": 21, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "93.44.34.233", 
+            "time": 763, 
+            "teamkilled": 2, 
+            "killed": 34, 
+            "killactions": {
+                "shredded": 15, 
+                "busted": 3, 
+                "headshot": 1, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443091248.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "tentakel", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "86.61.113.59", 
+            "time": 80, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {}, 
+            "lastseen": 1443091788.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KiN|Titan[FR]", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "86.198.92.227", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "jiller", 
+            "kills": 30, 
+            "teamkills": 11, 
+            "flagactions": {}, 
+            "ip": "177.98.205.85", 
+            "time": 516, 
+            "teamkilled": 7, 
+            "killed": 35, 
+            "killactions": {
+                "shredded": 10, 
+                "busted": 11, 
+                "gibbed": 9
+            }, 
+            "lastseen": 1443091548.0, 
+            "visits": 2, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ThePhantomPain", 
+            "kills": 28, 
+            "teamkills": 2, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "81.241.141.237", 
+            "time": 653, 
+            "teamkilled": 1, 
+            "killed": 18, 
+            "killactions": {
+                "busted": 9, 
+                "gibbed": 6, 
+                "headshot": 5, 
+                "punctured": 8
+            }, 
+            "lastseen": 1443091128.0, 
+            "visits": 4, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "jason", 
+            "kills": 16, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "98.213.64.29", 
+            "time": 906, 
+            "teamkilled": 2, 
+            "killed": 25, 
+            "killactions": {
+                "headshot": 5, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443618059.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "hustensaftjnglg", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "83.175.118.29", 
+            "time": 54, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443667562.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SERGMINATOR", 
+            "kills": 8, 
+            "teamkills": 3, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 8, 
+                "returned": 1, 
+                "lost": 5
+            }, 
+            "ip": "93.108.238.122", 
+            "time": 497, 
+            "teamkilled": 1, 
+            "killed": 12, 
+            "killactions": {
+                "sprayed": 6, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443622139.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SwaG.xH", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "191.53.21.156", 
+            "time": 177, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 1443617459.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "BandMaster", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "156.3.109.1", 
+            "time": 539, 
+            "teamkilled": 0, 
+            "killed": 10, 
+            "killactions": {
+                "busted": 2, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443617639.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "LordPotato", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1, 
+                "returned": 2
+            }, 
+            "ip": "188.252.168.8", 
+            "time": 123, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "shredded": 1, 
+                "busted": 2, 
+                "headshot": 2, 
+                "slashed": 1
+            }, 
+            "lastseen": 1443659401.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "essai", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.140.33.181", 
+            "time": 192, 
+            "teamkilled": 0, 
+            "killed": 7, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443614459.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "J2U", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.73.98.60", 
+            "time": 8, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443629580.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ClaviusMordicus", 
+            "kills": 37, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "82.240.198.57", 
+            "time": 0, 
+            "teamkilled": 3, 
+            "killed": 29, 
+            "killactions": {
+                "shredded": 1, 
+                "slashed": 2, 
+                "headshot": 2, 
+                "punctured": 32
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "-Assaulter", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "59.94.225.162", 
+            "time": 74, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443668702.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Allu_", 
+            "kills": 3, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "91.157.72.141", 
+            "time": 327, 
+            "teamkilled": 0, 
+            "killed": 8, 
+            "killactions": {
+                "punctured": 3
+            }, 
+            "lastseen": 1443619859.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "salepepe", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.50.174.181", 
+            "time": 3, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443626159.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "checkurping", 
+            "kills": 65, 
+            "teamkills": 4, 
+            "flagactions": {}, 
+            "ip": "98.213.56.154", 
+            "time": 3132, 
+            "teamkilled": 2, 
+            "killed": 70, 
+            "killactions": {
+                "sprayed": 3, 
+                "peppered": 2, 
+                "slashed": 4, 
+                "busted": 3, 
+                "headshot": 6, 
+                "punctured": 46, 
+                "splattered": 1
+            }, 
+            "lastseen": 1443630300.0, 
+            "visits": 5, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "papayourBR", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 3
+            }, 
+            "ip": "201.18.111.12", 
+            "time": 127, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443644340.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "priv", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "181.230.218.230", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "unarme", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "1.251.18.82", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "bence", 
+            "kills": 51, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "188.6.245.236", 
+            "time": 336, 
+            "teamkilled": 1, 
+            "killed": 29, 
+            "killactions": {
+                "slashed": 5, 
+                "headshot": 6, 
+                "punctured": 40
+            }, 
+            "lastseen": 1443668702.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "MisterRick", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {
+                "returned": 2
+            }, 
+            "ip": "88.163.143.84", 
+            "time": 98, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "sprayed": 4
+            }, 
+            "lastseen": 1443623039.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "FizolofMajster", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "185.34.28.136", 
+            "time": 103, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443658501.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "LutschiGoller", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "83.175.118.29", 
+            "time": 19, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443667562.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "BooMPeeZ", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "105.103.122.250", 
+            "time": 2936, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "sprayed": 2, 
+                "gibbed": 2
+            }, 
+            "lastseen": 1443614339.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "4144", 
+            "kills": 67, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 14, 
+                "stole": 14, 
+                "returned": 3
+            }, 
+            "ip": "46.56.77.3", 
+            "time": 1467, 
+            "teamkilled": 0, 
+            "killed": 24, 
+            "killactions": {
+                "sprayed": 34, 
+                "busted": 5, 
+                "punctured": 28
+            }, 
+            "lastseen": 1443630360.0, 
+            "visits": 5, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Themaster", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "109.186.224.185", 
+            "time": 12, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443621839.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "YuksekSosyete", 
+            "kills": 11, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "46.2.70.145", 
+            "time": 454, 
+            "teamkilled": 1, 
+            "killed": 13, 
+            "killactions": {
+                "slashed": 3, 
+                "headshot": 2, 
+                "punctured": 6
+            }, 
+            "lastseen": 1443619079.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "D'RussianCrimea", 
+            "kills": 74, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "109.108.201.79", 
+            "time": 1800, 
+            "teamkilled": 1, 
+            "killed": 34, 
+            "killactions": {
+                "sprayed": 12, 
+                "peppered": 5, 
+                "gibbed": 3, 
+                "busted": 20, 
+                "headshot": 12, 
+                "punctured": 20, 
+                "picked off": 2
+            }, 
+            "lastseen": 1443662341.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Eminem", 
+            "kills": 62, 
+            "teamkills": 12, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 8, 
+                "returned": 6, 
+                "lost": 8
+            }, 
+            "ip": "118.92.8.223", 
+            "time": 420, 
+            "teamkilled": 13, 
+            "killed": 189, 
+            "killactions": {
+                "sprayed": 15, 
+                "peppered": 3, 
+                "slashed": 3, 
+                "busted": 1, 
+                "headshot": 5, 
+                "punctured": 35
+            }, 
+            "lastseen": 1443624419.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 2
+        }, 
+        {
+            "name": "Rempac", 
+            "kills": 20, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "87.206.93.198", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 65, 
+            "killactions": {
+                "shredded": 6, 
+                "busted": 1, 
+                "headshot": 4, 
+                "punctured": 9
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "killme", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "87.159.53.112", 
+            "time": 327, 
+            "teamkilled": 0, 
+            "killed": 8, 
+            "killactions": {
+                "punctured": 4
+            }, 
+            "lastseen": 1443617579.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "PooPoo", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.249.161.168", 
+            "time": 39, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443628620.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Amirooo", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "5.121.242.166", 
+            "time": 15, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443626039.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "niro", 
+            "kills": 5, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.226.33.134", 
+            "time": 160, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "sprayed": 5
+            }, 
+            "lastseen": 1443628560.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "VAIBRUNERA", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "177.104.27.246", 
+            "time": 29, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443628860.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "PeterParker", 
+            "kills": 171, 
+            "teamkills": 8, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 2, 
+                "lost": 1
+            }, 
+            "ip": "187.59.247.254", 
+            "time": 3345, 
+            "teamkilled": 1, 
+            "killed": 66, 
+            "killactions": {
+                "sprayed": 3, 
+                "shredded": 20, 
+                "punctured": 45, 
+                "gibbed": 49, 
+                "busted": 34, 
+                "headshot": 18, 
+                "slashed": 2
+            }, 
+            "lastseen": 1443625019.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Weeman", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "104.241.232.67", 
+            "time": 314, 
+            "teamkilled": 0, 
+            "killed": 7, 
+            "killactions": {
+                "punctured": 6
+            }, 
+            "lastseen": 1443617039.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Chawlz", 
+            "kills": 19, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "50.53.98.215", 
+            "time": 785, 
+            "teamkilled": 0, 
+            "killed": 14, 
+            "killactions": {
+                "busted": 3, 
+                "picked off": 1, 
+                "headshot": 2, 
+                "punctured": 13
+            }, 
+            "lastseen": 1443630480.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KiNlBeasty", 
+            "kills": 17, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "67.85.63.88", 
+            "time": 645, 
+            "teamkilled": 0, 
+            "killed": 14, 
+            "killactions": {
+                "headshot": 3, 
+                "punctured": 14
+            }, 
+            "lastseen": 1443617759.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Friend_0f_P", 
+            "kills": 12, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "96.49.213.111", 
+            "time": 357, 
+            "teamkilled": 0, 
+            "killed": 12, 
+            "killactions": {
+                "punctured": 12
+            }, 
+            "lastseen": 1443619799.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "mos", 
+            "kills": 4, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "95.90.246.232", 
+            "time": 206, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443621059.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "sexmachine", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "1.251.18.82", 
+            "time": 541, 
+            "teamkilled": 1, 
+            "killed": 17, 
+            "killactions": {
+                "shredded": 1, 
+                "sprayed": 1, 
+                "picked off": 1, 
+                "busted": 1, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443660661.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "yesimsongyeop", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "1.251.18.82", 
+            "time": 56, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443638220.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "killer", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "177.249.159.45", 
+            "time": 66, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443630120.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "_Jessica_", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "returned": 1, 
+                "lost": 1
+            }, 
+            "ip": "173.65.181.194", 
+            "time": 266, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "shredded": 3, 
+                "busted": 1
+            }, 
+            "lastseen": 1443625979.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".vM|Redda", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.131.145.131", 
+            "time": 15, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443617819.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KAMIKASE", 
+            "kills": 24, 
+            "teamkills": 11, 
+            "flagactions": {}, 
+            "ip": "93.56.75.30", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 21, 
+            "killactions": {
+                "shredded": 13, 
+                "busted": 4, 
+                "gibbed": 7
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "narutobue", 
+            "kills": 15, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 3, 
+                "lost": 3
+            }, 
+            "ip": "2.82.89.32", 
+            "time": 895, 
+            "teamkilled": 1, 
+            "killed": 36, 
+            "killactions": {
+                "sprayed": 8, 
+                "busted": 2, 
+                "punctured": 5
+            }, 
+            "lastseen": 1443630780.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "max213443", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "184.145.141.98", 
+            "time": 47, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443626759.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Fireball999", 
+            "kills": 10, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.4.241.172", 
+            "time": 266, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "slashed": 1, 
+                "headshot": 1, 
+                "punctured": 8
+            }, 
+            "lastseen": 1443658441.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ToughLove", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 6, 
+                "returned": 4, 
+                "lost": 3
+            }, 
+            "ip": "174.25.52.227", 
+            "time": 379, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "sprayed": 9
+            }, 
+            "lastseen": 1443663241.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Mano", 
+            "kills": 43, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "87.239.74.166", 
+            "time": 1140, 
+            "teamkilled": 0, 
+            "killed": 32, 
+            "killactions": {
+                "sprayed": 22, 
+                "gibbed": 10, 
+                "busted": 11
+            }, 
+            "lastseen": 1443616319.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "spideriks", 
+            "kills": 5, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "83.4.98.107", 
+            "time": 761, 
+            "teamkilled": 1, 
+            "killed": 26, 
+            "killactions": {
+                "punctured": 5
+            }, 
+            "lastseen": 1443618479.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "dweezil", 
+            "kills": 59, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "77.54.32.48", 
+            "time": 1157, 
+            "teamkilled": 0, 
+            "killed": 16, 
+            "killactions": {
+                "busted": 21, 
+                "sprayed": 33, 
+                "gibbed": 2, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443662401.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Helbra", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "188.106.227.137", 
+            "time": 407, 
+            "teamkilled": 0, 
+            "killed": 9, 
+            "killactions": {
+                "shredded": 1, 
+                "busted": 8
+            }, 
+            "lastseen": 1443651661.0, 
+            "visits": 5, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "TimOzel=Racist", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "108.254.146.129", 
+            "time": 126, 
+            "teamkilled": 0, 
+            "killed": 7, 
+            "killactions": {
+                "sprayed": 2
+            }, 
+            "lastseen": 1443661261.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Fellows=Coon", 
+            "kills": 6, 
+            "teamkills": 6, 
+            "flagactions": {}, 
+            "ip": "98.213.64.29", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 3, 
+            "killactions": {
+                "headshot": 2, 
+                "punctured": 4
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "dr_fuzzz", 
+            "kills": 25, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.21.249.147", 
+            "time": 63, 
+            "teamkilled": 2, 
+            "killed": 6, 
+            "killactions": {
+                "sprayed": 18, 
+                "busted": 7
+            }, 
+            "lastseen": 1443628800.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ARIET98", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "93.40.128.87", 
+            "time": 207, 
+            "teamkilled": 0, 
+            "killed": 5, 
+            "killactions": {
+                "shredded": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443623279.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ThanksMan", 
+            "kills": 77, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "98.223.229.121", 
+            "time": 1931, 
+            "teamkilled": 3, 
+            "killed": 36, 
+            "killactions": {
+                "shredded": 38, 
+                "busted": 37, 
+                "splattered": 1, 
+                "gibbed": 1
+            }, 
+            "lastseen": 1443629460.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "VIP", 
+            "kills": 96, 
+            "teamkills": 2, 
+            "flagactions": {
+                "scored": 2, 
+                "stole": 2, 
+                "returned": 1
+            }, 
+            "ip": "86.123.172.240", 
+            "time": 2218, 
+            "teamkilled": 2, 
+            "killed": 60, 
+            "killactions": {
+                "slashed": 7, 
+                "busted": 1, 
+                "gibbed": 1, 
+                "headshot": 6, 
+                "punctured": 81
+            }, 
+            "lastseen": 1443621539.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "FUGA", 
+            "kills": 26, 
+            "teamkills": 22, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1
+            }, 
+            "ip": "82.240.198.57", 
+            "time": 30, 
+            "teamkilled": 7, 
+            "killed": 12, 
+            "killactions": {
+                "slashed": 2, 
+                "peppered": 7, 
+                "splattered": 6, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443626759.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".vM|Gjakus[ITA]", 
+            "kills": 62, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "79.17.49.72", 
+            "time": 1015, 
+            "teamkilled": 1, 
+            "killed": 21, 
+            "killactions": {
+                "headshot": 6, 
+                "punctured": 56
+            }, 
+            "lastseen": 1443618719.0, 
+            "visits": 6, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "noob99.linux.it", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 2, 
+                "lost": 2
+            }, 
+            "ip": "5.170.103.122", 
+            "time": 104, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "busted": 1, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443623639.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "|M|issM3?", 
+            "kills": 5, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "177.207.32.110", 
+            "time": 307, 
+            "teamkilled": 1, 
+            "killed": 5, 
+            "killactions": {
+                "punctured": 5
+            }, 
+            "lastseen": 1443616619.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "unarm", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "109.210.168.105", 
+            "time": 7, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443630480.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "No-Scope-Jimmy", 
+            "kills": 8, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 4, 
+                "stole": 6, 
+                "returned": 1, 
+                "lost": 1
+            }, 
+            "ip": "81.156.191.15", 
+            "time": 426, 
+            "teamkilled": 1, 
+            "killed": 8, 
+            "killactions": {
+                "shredded": 2, 
+                "slashed": 2, 
+                "busted": 3, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443626099.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "MinecraftForDub", 
+            "kills": 27, 
+            "teamkills": 2, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "118.92.8.223", 
+            "time": 307, 
+            "teamkilled": 6, 
+            "killed": 95, 
+            "killactions": {
+                "slashed": 2, 
+                "sprayed": 16, 
+                "busted": 1, 
+                "headshot": 1, 
+                "punctured": 7
+            }, 
+            "lastseen": 1443630960.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "www", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "177.131.180.5", 
+            "time": 49, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 1443619559.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Patrykciezabije", 
+            "kills": 3, 
+            "teamkills": 2, 
+            "flagactions": {
+                "stole": 3, 
+                "lost": 3
+            }, 
+            "ip": "185.34.28.136", 
+            "time": 205, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "busted": 1, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443659401.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "[MEX]Xerzeht.", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.177.145.83", 
+            "time": 852, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443621119.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".MaNeHGaLiNhA.", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "186.236.209.22", 
+            "time": 23, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443629940.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Epoch", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "71.94.2.18", 
+            "time": 29, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443638280.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Yanosch", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "95.113.175.170", 
+            "time": 4, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443627419.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KiN|brolyssj", 
+            "kills": 24, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "41.207.22.52", 
+            "time": 1295, 
+            "teamkilled": 2, 
+            "killed": 35, 
+            "killactions": {
+                "slashed": 1, 
+                "headshot": 2, 
+                "punctured": 21
+            }, 
+            "lastseen": 1443621539.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JVGD", 
+            "kills": 41, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 7, 
+                "stole": 14, 
+                "returned": 5, 
+                "lost": 7
+            }, 
+            "ip": "77.229.153.145", 
+            "time": 2755, 
+            "teamkilled": 1, 
+            "killed": 81, 
+            "killactions": {
+                "shredded": 12, 
+                "punctured": 18, 
+                "gibbed": 1, 
+                "busted": 6, 
+                "headshot": 1, 
+                "slashed": 3
+            }, 
+            "lastseen": 1443623759.0, 
+            "visits": 4, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Serrallonga.CAT", 
+            "kills": 17, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.158.103.64", 
+            "time": 549, 
+            "teamkilled": 0, 
+            "killed": 12, 
+            "killactions": {
+                "shredded": 1, 
+                "headshot": 1, 
+                "punctured": 15
+            }, 
+            "lastseen": 1443617459.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "metallll", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.153.114.130", 
+            "time": 8, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443622319.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "will", 
+            "kills": 79, 
+            "teamkills": 2, 
+            "flagactions": {
+                "scored": 4, 
+                "stole": 11, 
+                "returned": 9, 
+                "lost": 8
+            }, 
+            "ip": "177.54.81.86", 
+            "time": 1997, 
+            "teamkilled": 4, 
+            "killed": 50, 
+            "killactions": {
+                "sprayed": 1, 
+                "shredded": 45, 
+                "slashed": 1, 
+                "gibbed": 1, 
+                "busted": 3, 
+                "headshot": 2, 
+                "punctured": 9, 
+                "picked off": 17
+            }, 
+            "lastseen": 1443628440.0, 
+            "visits": 3, 
+            "suicides": 2, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "NeverMore|INDO", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "202.73.225.86", 
+            "time": 67, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443663061.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Tut", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "74.115.237.100", 
+            "time": 15, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443630480.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Fellows=", 
+            "kills": 1, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "98.213.64.29", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Mr.F", 
+            "kills": 10, 
+            "teamkills": 4, 
+            "flagactions": {}, 
+            "ip": "98.213.64.29", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 12, 
+            "killactions": {
+                "slashed": 3, 
+                "punctured": 7
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "missed..", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "58.9.30.104", 
+            "time": 1835, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "punctured": 2
+            }, 
+            "lastseen": 1443614399.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "EggFooYoung", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "170.235.211.9", 
+            "time": 157, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443618659.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Amok_Berserker", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "71.108.113.221", 
+            "time": 9, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443621599.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Grumrupper", 
+            "kills": 18, 
+            "teamkills": 2, 
+            "flagactions": {
+                "scored": 8, 
+                "stole": 15, 
+                "returned": 7, 
+                "lost": 6
+            }, 
+            "ip": "138.232.95.67", 
+            "time": 948, 
+            "teamkilled": 5, 
+            "killed": 17, 
+            "killactions": {
+                "shredded": 16, 
+                "busted": 1, 
+                "slashed": 1
+            }, 
+            "lastseen": 1443663301.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 1
+        }, 
+        {
+            "name": "Nimed", 
+            "kills": 18, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "186.81.51.119", 
+            "time": 542, 
+            "teamkilled": 0, 
+            "killed": 16, 
+            "killactions": {
+                "slashed": 5, 
+                "headshot": 1, 
+                "punctured": 12
+            }, 
+            "lastseen": 1443620999.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Oliver[AT]", 
+            "kills": 13, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "178.191.183.219", 
+            "time": 594, 
+            "teamkilled": 0, 
+            "killed": 17, 
+            "killactions": {
+                "shredded": 7, 
+                "busted": 1, 
+                "gibbed": 1, 
+                "headshot": 2, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443616139.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "NONOL39", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "202.87.150.121", 
+            "time": 31, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {}, 
+            "lastseen": 1443668822.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "tkon99", 
+            "kills": 19, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "94.226.243.149", 
+            "time": 1242, 
+            "teamkilled": 0, 
+            "killed": 21, 
+            "killactions": {
+                "headshot": 2, 
+                "punctured": 17
+            }, 
+            "lastseen": 1443617699.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".vM|piotrekmpc", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "31.61.141.46", 
+            "time": 37, 
+            "teamkilled": 1, 
+            "killed": 1, 
+            "killactions": {}, 
+            "lastseen": 1443620459.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SuaMaeVadia", 
+            "kills": 42, 
+            "teamkills": 4, 
+            "flagactions": {
+                "scored": 5, 
+                "stole": 13, 
+                "returned": 8, 
+                "lost": 7
+            }, 
+            "ip": "189.30.72.158", 
+            "time": 2127, 
+            "teamkilled": 7, 
+            "killed": 52, 
+            "killactions": {
+                "busted": 3, 
+                "sprayed": 24, 
+                "gibbed": 3, 
+                "punctured": 3, 
+                "peppered": 9
+            }, 
+            "lastseen": 1443628440.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 1, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Luigi", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "31.61.141.46", 
+            "time": 33, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443618899.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Bob", 
+            "kills": 13, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "78.205.170.91", 
+            "time": 363, 
+            "teamkilled": 1, 
+            "killed": 8, 
+            "killactions": {
+                "headshot": 2, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443619499.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "silios", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.1.227.191", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "headshot": 3
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SN1|GIGGS", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "69.200.246.200", 
+            "time": 17, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443621059.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Vauban", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "87.123.243.161", 
+            "time": 455, 
+            "teamkilled": 1, 
+            "killed": 12, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 1443617219.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "isy", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "87.165.72.147", 
+            "time": 3, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443615119.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "@fuga@", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 6, 
+                "stole": 7, 
+                "returned": 1, 
+                "lost": 2
+            }, 
+            "ip": "83.132.39.176", 
+            "time": 276, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "sprayed": 5, 
+                "busted": 1
+            }, 
+            "lastseen": 1443623999.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "lol'", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {}, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "[maximate]", 
+            "kills": 10, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "91.99.7.229", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 10, 
+            "killactions": {
+                "punctured": 10
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Beginner", 
+            "kills": 42, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "returned": 1, 
+                "lost": 1
+            }, 
+            "ip": "85.5.114.237", 
+            "time": 1773, 
+            "teamkilled": 2, 
+            "killed": 54, 
+            "killactions": {
+                "sprayed": 26, 
+                "gibbed": 5, 
+                "busted": 11
+            }, 
+            "lastseen": 1443616079.0, 
+            "visits": 1, 
+            "suicides": 3, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "deadpool", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "93.205.70.18", 
+            "time": 447, 
+            "teamkilled": 3, 
+            "killed": 11, 
+            "killactions": {
+                "punctured": 6
+            }, 
+            "lastseen": 1443618059.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JAEHYEOK", 
+            "kills": 18, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "1.251.18.82", 
+            "time": 1250, 
+            "teamkilled": 1, 
+            "killed": 31, 
+            "killactions": {
+                "shredded": 13, 
+                "punctured": 3, 
+                "peppered": 2
+            }, 
+            "lastseen": 1443661441.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ILLREKYOUM8", 
+            "kills": 18, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "85.157.125.196", 
+            "time": 332, 
+            "teamkilled": 0, 
+            "killed": 9, 
+            "killactions": {
+                "punctured": 18
+            }, 
+            "lastseen": 1443619559.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "TheGamer", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "186.27.179.126", 
+            "time": 464, 
+            "teamkilled": 1, 
+            "killed": 5, 
+            "killactions": {
+                "punctured": 6
+            }, 
+            "lastseen": 1443625559.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "sosnyUphp", 
+            "kills": 13, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "62.76.67.149", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 28, 
+            "killactions": {
+                "punctured": 13
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Vit:UA", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "176.119.233.146", 
+            "time": 230, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "headshot": 2, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443661381.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "afsdfbfb", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.40.247.245", 
+            "time": 7, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443626099.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "HitlerWasCool", 
+            "kills": 4, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "98.213.64.29", 
+            "time": 0, 
+            "teamkilled": 2, 
+            "killed": 8, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Brother.Simon", 
+            "kills": 46, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 26, 
+                "stole": 29, 
+                "returned": 7, 
+                "lost": 3
+            }, 
+            "ip": "14.2.10.241", 
+            "time": 2405, 
+            "teamkilled": 2, 
+            "killed": 28, 
+            "killactions": {
+                "slashed": 2, 
+                "busted": 1, 
+                "splattered": 19, 
+                "gibbed": 8, 
+                "peppered": 16
+            }, 
+            "lastseen": 1443661441.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SY-Sniper", 
+            "kills": 93, 
+            "teamkills": 3, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "31.9.93.162", 
+            "time": 2999, 
+            "teamkilled": 4, 
+            "killed": 98, 
+            "killactions": {
+                "slashed": 10, 
+                "splattered": 1, 
+                "headshot": 3, 
+                "punctured": 79
+            }, 
+            "lastseen": 1443621539.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Cumshot", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "85.11.73.82", 
+            "time": 218, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "slashed": 3
+            }, 
+            "lastseen": 1443669242.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Temignion", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "203.185.181.225", 
+            "time": 243, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "punctured": 3
+            }, 
+            "lastseen": 1443620639.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "~fr_team~", 
+            "kills": 34, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "109.16.4.189", 
+            "time": 646, 
+            "teamkilled": 3, 
+            "killed": 18, 
+            "killactions": {
+                "punctured": 34
+            }, 
+            "lastseen": 1443617939.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "PRO", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.21.249.147", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "sprayed": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "halmouch", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "197.0.53.118", 
+            "time": 280, 
+            "teamkilled": 1, 
+            "killed": 11, 
+            "killactions": {
+                "sprayed": 2, 
+                "gibbed": 1
+            }, 
+            "lastseen": 1443614939.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "oneshot", 
+            "kills": 29, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "197.129.130.246", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 58, 
+            "killactions": {
+                "punctured": 29
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "l-l-l", 
+            "kills": 6, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "211.28.40.130", 
+            "time": 169, 
+            "teamkilled": 1, 
+            "killed": 5, 
+            "killactions": {
+                "sprayed": 1, 
+                "headshot": 1, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443620339.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "chT", 
+            "kills": 52, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "89.15.238.97", 
+            "time": 1761, 
+            "teamkilled": 2, 
+            "killed": 58, 
+            "killactions": {
+                "slashed": 16, 
+                "picked off": 1, 
+                "headshot": 2, 
+                "punctured": 33
+            }, 
+            "lastseen": 1443620999.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "linux", 
+            "kills": 7, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "201.93.70.162", 
+            "time": 230, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {
+                "slashed": 5, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443630060.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "GUESSWHO?", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "159.118.190.165", 
+            "time": 616, 
+            "teamkilled": 0, 
+            "killed": 15, 
+            "killactions": {
+                "sprayed": 6, 
+                "splattered": 1, 
+                "headshot": 1, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443629580.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "gahdeer1999", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "37.237.152.8", 
+            "time": 240, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 1443669182.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "xcra", 
+            "kills": 5, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "72.201.57.100", 
+            "time": 325, 
+            "teamkilled": 1, 
+            "killed": 15, 
+            "killactions": {
+                "punctured": 5
+            }, 
+            "lastseen": 1443620039.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "robertdowneyj", 
+            "kills": 119, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "108.240.142.115", 
+            "time": 2243, 
+            "teamkilled": 3, 
+            "killed": 43, 
+            "killactions": {
+                "sprayed": 73, 
+                "punctured": 29, 
+                "gibbed": 2, 
+                "busted": 4, 
+                "headshot": 7, 
+                "slashed": 4
+            }, 
+            "lastseen": 1443629040.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Hue", 
+            "kills": 25, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "201.93.70.162", 
+            "time": 1009, 
+            "teamkilled": 3, 
+            "killed": 14, 
+            "killactions": {
+                "busted": 1, 
+                "headshot": 6, 
+                "punctured": 18
+            }, 
+            "lastseen": 1443618059.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "pp", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "91.64.213.224", 
+            "time": 149, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 1443621599.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Daohc_Sinep", 
+            "kills": 23, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 5, 
+                "stole": 9, 
+                "returned": 1, 
+                "lost": 4
+            }, 
+            "ip": "162.195.68.220", 
+            "time": 808, 
+            "teamkilled": 2, 
+            "killed": 23, 
+            "killactions": {
+                "punctured": 8, 
+                "splattered": 8, 
+                "headshot": 2, 
+                "peppered": 5
+            }, 
+            "lastseen": 1443630780.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "chiken", 
+            "kills": 39, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "104.229.213.78", 
+            "time": 231, 
+            "teamkilled": 3, 
+            "killed": 3, 
+            "killactions": {
+                "busted": 6, 
+                "picked off": 21, 
+                "punctured": 12
+            }, 
+            "lastseen": 1443624839.0, 
+            "visits": 2, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Moaly", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "91.113.68.80", 
+            "time": 8, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443617219.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "<.53|Be@gl3", 
+            "kills": 24, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 4, 
+                "stole": 8, 
+                "returned": 1, 
+                "lost": 4
+            }, 
+            "ip": "79.249.161.168", 
+            "time": 938, 
+            "teamkilled": 1, 
+            "killed": 18, 
+            "killactions": {
+                "shredded": 14, 
+                "busted": 8, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443626639.0, 
+            "visits": 4, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "*", 
+            "kills": 2, 
+            "teamkills": 2, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "188.112.43.9", 
+            "time": 0, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "sprayed": 2
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Prince.....NOIR", 
+            "kills": 20, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.236.85.197", 
+            "time": 598, 
+            "teamkilled": 0, 
+            "killed": 13, 
+            "killactions": {
+                "shredded": 13, 
+                "busted": 4, 
+                "gibbed": 3
+            }, 
+            "lastseen": 1443616319.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "lorekt", 
+            "kills": 8, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "31.33.50.131", 
+            "time": 433, 
+            "teamkilled": 1, 
+            "killed": 19, 
+            "killactions": {
+                "slashed": 1, 
+                "punctured": 7
+            }, 
+            "lastseen": 1443620159.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "[ED]", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.113.121.164", 
+            "time": 1319, 
+            "teamkilled": 0, 
+            "killed": 14, 
+            "killactions": {
+                "shredded": 1, 
+                "punctured": 2, 
+                "gibbed": 4, 
+                "headshot": 1, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443629520.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "The_Guard", 
+            "kills": 18, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "77.20.196.122", 
+            "time": 436, 
+            "teamkilled": 0, 
+            "killed": 11, 
+            "killactions": {
+                "slashed": 3, 
+                "punctured": 15
+            }, 
+            "lastseen": 1443620819.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Sam96", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "151.75.249.115", 
+            "time": 4, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443614699.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "<>(", 
+            "kills": 25, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "77.234.44.156", 
+            "time": 760, 
+            "teamkilled": 2, 
+            "killed": 26, 
+            "killactions": {
+                "slashed": 7, 
+                "headshot": 2, 
+                "punctured": 16
+            }, 
+            "lastseen": 1443619799.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Geert", 
+            "kills": 18, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "84.26.227.77", 
+            "time": 335, 
+            "teamkilled": 1, 
+            "killed": 7, 
+            "killactions": {
+                "slashed": 1, 
+                "punctured": 17
+            }, 
+            "lastseen": 1443630240.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "jj-71", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "77.227.222.58", 
+            "time": 14, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443659401.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "3l3ktr0", 
+            "kills": 4, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "82.55.70.115", 
+            "time": 86, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "busted": 2, 
+                "gibbed": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443616319.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "yourmom", 
+            "kills": 32, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "5.38.185.117", 
+            "time": 1709, 
+            "teamkilled": 2, 
+            "killed": 15, 
+            "killactions": {
+                "busted": 2, 
+                "gibbed": 9, 
+                "headshot": 11, 
+                "punctured": 10
+            }, 
+            "lastseen": 1443616379.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JfMusic", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "93.26.213.155", 
+            "time": 22, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443626159.0, 
+            "visits": 8, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Fly", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "104.230.59.122", 
+            "time": 133, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "picked off": 2
+            }, 
+            "lastseen": 1443626399.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "madrugadao", 
+            "kills": 9, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "201.24.192.42", 
+            "time": 386, 
+            "teamkilled": 0, 
+            "killed": 10, 
+            "killactions": {
+                "punctured": 9
+            }, 
+            "lastseen": 1443658321.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "mostafa", 
+            "kills": 39, 
+            "teamkills": 6, 
+            "flagactions": {}, 
+            "ip": "41.129.113.106", 
+            "time": 2051, 
+            "teamkilled": 5, 
+            "killed": 78, 
+            "killactions": {
+                "busted": 4, 
+                "sprayed": 2, 
+                "gibbed": 1, 
+                "headshot": 4, 
+                "punctured": 28
+            }, 
+            "lastseen": 1443616919.0, 
+            "visits": 2, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Keldian", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "189.159.247.236", 
+            "time": 82, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "headshot": 1
+            }, 
+            "lastseen": 1443624899.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "VivaWindows", 
+            "kills": 2, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "181.230.218.230", 
+            "time": 109, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "punctured": 2
+            }, 
+            "lastseen": 1443630360.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Shabaner", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "178.238.167.32", 
+            "time": 17, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443630240.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ziko", 
+            "kills": 13, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "41.249.19.96", 
+            "time": 851, 
+            "teamkilled": 3, 
+            "killed": 21, 
+            "killactions": {
+                "headshot": 4, 
+                "punctured": 9
+            }, 
+            "lastseen": 1443625439.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Ludo[BE]", 
+            "kills": 17, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "81.241.109.227", 
+            "time": 479, 
+            "teamkilled": 0, 
+            "killed": 9, 
+            "killactions": {
+                "sprayed": 14, 
+                "busted": 3
+            }, 
+            "lastseen": 1443615179.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JulioGrisolia", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.94.85.193", 
+            "time": 89, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {}, 
+            "lastseen": 1443619679.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Boomstick", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "216.67.53.130", 
+            "time": 52, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 1443651601.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "salers.fr", 
+            "kills": 75, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "86.216.0.97", 
+            "time": 1939, 
+            "teamkilled": 1, 
+            "killed": 53, 
+            "killactions": {
+                "shredded": 1, 
+                "slashed": 14, 
+                "headshot": 3, 
+                "punctured": 57
+            }, 
+            "lastseen": 1443620519.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KiN|Altair", 
+            "kills": 27, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "82.178.200.62", 
+            "time": 541, 
+            "teamkilled": 2, 
+            "killed": 6, 
+            "killactions": {
+                "slashed": 4, 
+                "headshot": 6, 
+                "punctured": 17
+            }, 
+            "lastseen": 1443658441.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "fuzzz", 
+            "kills": 18, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.21.249.147", 
+            "time": 682, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "busted": 6, 
+                "sprayed": 5, 
+                "gibbed": 6, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443629460.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "|KH|TimOzel", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "68.4.10.226", 
+            "time": 18, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443663241.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Pequep", 
+            "kills": 21, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "84.120.232.31", 
+            "time": 456, 
+            "teamkilled": 0, 
+            "killed": 14, 
+            "killactions": {
+                "shredded": 5, 
+                "busted": 16
+            }, 
+            "lastseen": 1443624659.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "edigar", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.1.227.191", 
+            "time": 9, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "headshot": 1
+            }, 
+            "lastseen": 1443651541.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "|Noob|Noobne$$", 
+            "kills": 12, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "189.78.189.162", 
+            "time": 265, 
+            "teamkilled": 0, 
+            "killed": 8, 
+            "killactions": {
+                "slashed": 2, 
+                "headshot": 1, 
+                "punctured": 9
+            }, 
+            "lastseen": 1443619439.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Geddaffi", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.32.149.133", 
+            "time": 163, 
+            "teamkilled": 0, 
+            "killed": 5, 
+            "killactions": {}, 
+            "lastseen": 1443618599.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "HowlingMad", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "141.70.100.77", 
+            "time": 138, 
+            "teamkilled": 1, 
+            "killed": 2, 
+            "killactions": {}, 
+            "lastseen": 1443660781.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "PEGIDA", 
+            "kills": 22, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "58.8.98.61", 
+            "time": 965, 
+            "teamkilled": 0, 
+            "killed": 18, 
+            "killactions": {
+                "shredded": 18, 
+                "busted": 2, 
+                "gibbed": 1, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443661441.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "peppermint", 
+            "kills": 10, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "5.38.185.117", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 20, 
+            "killactions": {
+                "busted": 3, 
+                "sprayed": 1, 
+                "gibbed": 2, 
+                "headshot": 2, 
+                "punctured": 2
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 2, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "whiskey", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "178.201.149.206", 
+            "time": 106, 
+            "teamkilled": 0, 
+            "killed": 4, 
+            "killactions": {
+                "punctured": 3
+            }, 
+            "lastseen": 1443662941.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "MrDydy19", 
+            "kills": 52, 
+            "teamkills": 2, 
+            "flagactions": {}, 
+            "ip": "88.177.189.210", 
+            "time": 1348, 
+            "teamkilled": 4, 
+            "killed": 39, 
+            "killactions": {
+                "slashed": 8, 
+                "headshot": 3, 
+                "punctured": 41
+            }, 
+            "lastseen": 1443619559.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "sinnerman", 
+            "kills": 10, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 10, 
+                "stole": 10, 
+                "returned": 4, 
+                "lost": 1
+            }, 
+            "ip": "91.185.124.64", 
+            "time": 356, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "shredded": 8, 
+                "busted": 1, 
+                "gibbed": 1
+            }, 
+            "lastseen": 1443623519.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": ".vM|W@leed", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "86.18.71.26", 
+            "time": 0, 
+            "teamkilled": 3, 
+            "killed": 5, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "hure", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "91.41.57.26", 
+            "time": 11, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443620879.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Lukethegamenerd", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.14.159.113", 
+            "time": 112, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {}, 
+            "lastseen": 1443622859.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "vacreveeerrrr", 
+            "kills": 46, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "92.145.62.34", 
+            "time": 1337, 
+            "teamkilled": 2, 
+            "killed": 38, 
+            "killactions": {
+                "slashed": 6, 
+                "busted": 1, 
+                "headshot": 5, 
+                "punctured": 34
+            }, 
+            "lastseen": 1443621479.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "0.0", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "79.144.47.172", 
+            "time": 60, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "sprayed": 1
+            }, 
+            "lastseen": 1443614459.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "DD", 
+            "kills": 32, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "87.170.157.58", 
+            "time": 974, 
+            "teamkilled": 1, 
+            "killed": 21, 
+            "killactions": {
+                "busted": 2, 
+                "punctured": 30
+            }, 
+            "lastseen": 1443625259.0, 
+            "visits": 5, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "ww", 
+            "kills": 18, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "82.157.3.48", 
+            "time": 284, 
+            "teamkilled": 0, 
+            "killed": 5, 
+            "killactions": {
+                "headshot": 4, 
+                "punctured": 14
+            }, 
+            "lastseen": 1443618479.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "fuck", 
+            "kills": 8, 
+            "teamkills": 1, 
+            "flagactions": {
+                "returned": 4
+            }, 
+            "ip": "181.230.218.230", 
+            "time": 185, 
+            "teamkilled": 2, 
+            "killed": 6, 
+            "killactions": {
+                "sprayed": 8
+            }, 
+            "lastseen": 1443630600.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "REGA", 
+            "kills": 19, 
+            "teamkills": 3, 
+            "flagactions": {
+                "scored": 2, 
+                "stole": 8, 
+                "returned": 1, 
+                "lost": 6
+            }, 
+            "ip": "111.95.152.4", 
+            "time": 227, 
+            "teamkilled": 2, 
+            "killed": 77, 
+            "killactions": {
+                "sprayed": 6, 
+                "shredded": 3, 
+                "busted": 5, 
+                "headshot": 1, 
+                "punctured": 1, 
+                "picked off": 3
+            }, 
+            "lastseen": 1443662761.0, 
+            "visits": 1, 
+            "suicides": 3, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "cherchtoujours", 
+            "kills": 9, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "84.6.242.253", 
+            "time": 763, 
+            "teamkilled": 1, 
+            "killed": 22, 
+            "killactions": {
+                "sprayed": 1, 
+                "picked off": 1, 
+                "headshot": 5, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443616439.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "R3stor33", 
+            "kills": 12, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "69.179.141.206", 
+            "time": 632, 
+            "teamkilled": 1, 
+            "killed": 14, 
+            "killactions": {
+                "sprayed": 3, 
+                "headshot": 2, 
+                "punctured": 7
+            }, 
+            "lastseen": 1443630240.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "askemannenn", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "93.89.117.70", 
+            "time": 243, 
+            "teamkilled": 1, 
+            "killed": 6, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443620579.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "meclau27", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "5.15.157.96", 
+            "time": 31, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443616919.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "NSGGangSnitch", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "83.175.118.29", 
+            "time": 21, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443667742.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SiberianFox", 
+            "kills": 5, 
+            "teamkills": 1, 
+            "flagactions": {
+                "scored": 1, 
+                "returned": 1
+            }, 
+            "ip": "79.115.150.237", 
+            "time": 944, 
+            "teamkilled": 2, 
+            "killed": 5, 
+            "killactions": {
+                "shredded": 5
+            }, 
+            "lastseen": 1443614399.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Rauanff", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "152.236.31.7", 
+            "time": 37, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443627660.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "NeRd", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 2, 
+                "lost": 1
+            }, 
+            "ip": "177.192.194.171", 
+            "time": 160, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "sprayed": 1
+            }, 
+            "lastseen": 1443623879.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Sipost19", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "195.199.20.129", 
+            "time": 37, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443659581.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "R.T.Erdogan", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "88.242.78.96", 
+            "time": 9, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443663061.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "badmemes", 
+            "kills": 7, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "104.229.213.78", 
+            "time": 59, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {
+                "picked off": 7
+            }, 
+            "lastseen": 1443626399.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "schneekind", 
+            "kills": 65, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 26, 
+                "stole": 29, 
+                "returned": 3, 
+                "lost": 4
+            }, 
+            "ip": "92.231.12.150", 
+            "time": 1387, 
+            "teamkilled": 0, 
+            "killed": 15, 
+            "killactions": {
+                "shredded": 9, 
+                "sprayed": 37, 
+                "gibbed": 3, 
+                "busted": 16
+            }, 
+            "lastseen": 1443624479.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Cavemannequin", 
+            "kills": 12, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "99.71.209.67", 
+            "time": 740, 
+            "teamkilled": 0, 
+            "killed": 34, 
+            "killactions": {
+                "busted": 4, 
+                "headshot": 7, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443616319.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SONG", 
+            "kills": 27, 
+            "teamkills": 2, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "1.251.18.82", 
+            "time": 1250, 
+            "teamkilled": 0, 
+            "killed": 26, 
+            "killactions": {
+                "shredded": 13, 
+                "sprayed": 5, 
+                "punctured": 9
+            }, 
+            "lastseen": 1443661441.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "[SS]Thanks_Man", 
+            "kills": 29, 
+            "teamkills": 2, 
+            "flagactions": {
+                "scored": 2, 
+                "stole": 3, 
+                "dropped": 1, 
+                "lost": 2, 
+                "returned": 2
+            }, 
+            "ip": "98.160.143.68", 
+            "time": 704, 
+            "teamkilled": 1, 
+            "killed": 13, 
+            "killactions": {
+                "punctured": 3, 
+                "busted": 10, 
+                "splattered": 9, 
+                "headshot": 2, 
+                "peppered": 5
+            }, 
+            "lastseen": 1443630840.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "|n$D|Zelda[FR]", 
+            "kills": 4, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "83.153.30.250", 
+            "time": 467, 
+            "teamkilled": 0, 
+            "killed": 14, 
+            "killactions": {
+                "gibbed": 3, 
+                "peppered": 1
+            }, 
+            "lastseen": 1443615239.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "zeeshan", 
+            "kills": 4, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "86.18.71.26", 
+            "time": 463, 
+            "teamkilled": 0, 
+            "killed": 8, 
+            "killactions": {
+                "punctured": 4
+            }, 
+            "lastseen": 1443618299.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Commader-M", 
+            "kills": 8, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "212.76.101.32", 
+            "time": 1503, 
+            "teamkilled": 4, 
+            "killed": 63, 
+            "killactions": {
+                "slashed": 1, 
+                "busted": 2, 
+                "gibbed": 1, 
+                "punctured": 4
+            }, 
+            "lastseen": 1443617879.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "NadineMorano", 
+            "kills": 46, 
+            "teamkills": 4, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 2, 
+                "lost": 1
+            }, 
+            "ip": "82.240.198.57", 
+            "time": 2533, 
+            "teamkilled": 2, 
+            "killed": 35, 
+            "killactions": {
+                "peppered": 3, 
+                "shredded": 1, 
+                "slashed": 6, 
+                "busted": 1, 
+                "headshot": 4, 
+                "punctured": 31
+            }, 
+            "lastseen": 1443625979.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "HeadshotRJ", 
+            "kills": 40, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "187.79.144.41", 
+            "time": 2100, 
+            "teamkilled": 4, 
+            "killed": 58, 
+            "killactions": {
+                "sprayed": 5, 
+                "shredded": 3, 
+                "punctured": 24, 
+                "busted": 1, 
+                "headshot": 6, 
+                "slashed": 1
+            }, 
+            "lastseen": 1443617759.0, 
+            "visits": 5, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Ironman", 
+            "kills": 34, 
+            "teamkills": 3, 
+            "flagactions": {
+                "scored": 3, 
+                "stole": 6, 
+                "returned": 1, 
+                "lost": 3
+            }, 
+            "ip": "150.107.91.46", 
+            "time": 754, 
+            "teamkilled": 1, 
+            "killed": 19, 
+            "killactions": {
+                "sprayed": 19, 
+                "busted": 15
+            }, 
+            "lastseen": 1443662701.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "boringtons", 
+            "kills": 21, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "86.221.16.192", 
+            "time": 696, 
+            "teamkilled": 0, 
+            "killed": 19, 
+            "killactions": {
+                "headshot": 2, 
+                "punctured": 19
+            }, 
+            "lastseen": 1443618659.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "kickyourself", 
+            "kills": 27, 
+            "teamkills": 3, 
+            "flagactions": {}, 
+            "ip": "71.37.210.152", 
+            "time": 2172, 
+            "teamkilled": 1, 
+            "killed": 51, 
+            "killactions": {
+                "slashed": 1, 
+                "sprayed": 8, 
+                "busted": 3, 
+                "gibbed": 4, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443630540.0, 
+            "visits": 2, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "lfc-pri", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "31.205.72.9", 
+            "time": 81, 
+            "teamkilled": 0, 
+            "killed": 3, 
+            "killactions": {}, 
+            "lastseen": 1443614699.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "A", 
+            "kills": 13, 
+            "teamkills": 3, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1
+            }, 
+            "ip": "185.34.28.136", 
+            "time": 925, 
+            "teamkilled": 2, 
+            "killed": 33, 
+            "killactions": {
+                "shredded": 2, 
+                "busted": 2, 
+                "gibbed": 3, 
+                "punctured": 3, 
+                "peppered": 3
+            }, 
+            "lastseen": 1443662581.0, 
+            "visits": 1, 
+            "suicides": 1, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "dwr", 
+            "kills": 3, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 2, 
+                "returned": 2, 
+                "lost": 1
+            }, 
+            "ip": "187.242.91.240", 
+            "time": 175, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "sprayed": 3
+            }, 
+            "lastseen": 1443621779.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Darshan", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1
+            }, 
+            "ip": "27.106.72.86", 
+            "time": 0, 
+            "teamkilled": 1, 
+            "killed": 3, 
+            "killactions": {
+                "sprayed": 4
+            }, 
+            "lastseen": 0, 
+            "visits": 0, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KuKluksKlan", 
+            "kills": 32, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "77.119.131.36", 
+            "time": 1077, 
+            "teamkilled": 0, 
+            "killed": 6, 
+            "killactions": {
+                "shredded": 24, 
+                "gibbed": 7, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443661621.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "GrosserAdolf", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "83.175.118.29", 
+            "time": 26, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443663361.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "KASZA", 
+            "kills": 14, 
+            "teamkills": 3, 
+            "flagactions": {
+                "stole": 1, 
+                "returned": 1, 
+                "lost": 1
+            }, 
+            "ip": "185.34.28.136", 
+            "time": 905, 
+            "teamkilled": 2, 
+            "killed": 61, 
+            "killactions": {
+                "shredded": 5, 
+                "busted": 4, 
+                "splattered": 1, 
+                "headshot": 1, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443662521.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 1
+        }, 
+        {
+            "name": "ms.jenkins", 
+            "kills": 6, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "87.207.113.87", 
+            "time": 638, 
+            "teamkilled": 1, 
+            "killed": 15, 
+            "killactions": {
+                "shredded": 3, 
+                "busted": 2, 
+                "gibbed": 1
+            }, 
+            "lastseen": 1443615599.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "TWAT_Silent_day", 
+            "kills": 2, 
+            "teamkills": 0, 
+            "flagactions": {
+                "returned": 1
+            }, 
+            "ip": "80.189.230.167", 
+            "time": 54, 
+            "teamkilled": 0, 
+            "killed": 1, 
+            "killactions": {
+                "shredded": 1, 
+                "busted": 1
+            }, 
+            "lastseen": 1443626099.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "mrFOX", 
+            "kills": 16, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "79.16.119.8", 
+            "time": 786, 
+            "teamkilled": 0, 
+            "killed": 20, 
+            "killactions": {
+                "slashed": 3, 
+                "headshot": 1, 
+                "punctured": 12
+            }, 
+            "lastseen": 1443619199.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "000", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "90.154.86.222", 
+            "time": 64, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443644160.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "EminemsBroNub", 
+            "kills": 1, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "118.92.8.223", 
+            "time": 3568, 
+            "teamkilled": 1, 
+            "killed": 22, 
+            "killactions": {
+                "punctured": 1
+            }, 
+            "lastseen": 1443620879.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "gIBSOON", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "185.34.28.136", 
+            "time": 177, 
+            "teamkilled": 0, 
+            "killed": 13, 
+            "killactions": {
+                "shredded": 1
+            }, 
+            "lastseen": 1443661621.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SkyFox", 
+            "kills": 44, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "95.81.210.96", 
+            "time": 1580, 
+            "teamkilled": 1, 
+            "killed": 39, 
+            "killactions": {
+                "headshot": 3, 
+                "punctured": 41
+            }, 
+            "lastseen": 1443621479.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Minecraft", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "179.208.117.75", 
+            "time": 142, 
+            "teamkilled": 1, 
+            "killed": 1, 
+            "killactions": {
+                "shredded": 3, 
+                "busted": 1
+            }, 
+            "lastseen": 1443627900.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "lar", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "", 
+            "time": 71, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443651661.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "CATAHA(Pycb)", 
+            "kills": 11, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "95.153.129.135", 
+            "time": 326, 
+            "teamkilled": 1, 
+            "killed": 11, 
+            "killactions": {
+                "headshot": 1, 
+                "punctured": 10
+            }, 
+            "lastseen": 1443619979.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Hellister", 
+            "kills": 39, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "37.4.152.200", 
+            "time": 3476, 
+            "teamkilled": 2, 
+            "killed": 22, 
+            "killactions": {
+                "shredded": 23, 
+                "sprayed": 9, 
+                "gibbed": 2, 
+                "busted": 3, 
+                "punctured": 2
+            }, 
+            "lastseen": 1443616319.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "/disconnect", 
+            "kills": 20, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "187.78.249.207", 
+            "time": 307, 
+            "teamkilled": 0, 
+            "killed": 13, 
+            "killactions": {
+                "slashed": 5, 
+                "headshot": 1, 
+                "punctured": 14
+            }, 
+            "lastseen": 1443669002.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "JEANHAMDIKILLER", 
+            "kills": 29, 
+            "teamkills": 1, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "78.221.145.25", 
+            "time": 1224, 
+            "teamkilled": 4, 
+            "killed": 46, 
+            "killactions": {
+                "punctured": 5, 
+                "busted": 1, 
+                "splattered": 6, 
+                "headshot": 2, 
+                "peppered": 15
+            }, 
+            "lastseen": 1443616439.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "oo", 
+            "kills": 29, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "2.207.219.50", 
+            "time": 1207, 
+            "teamkilled": 0, 
+            "killed": 20, 
+            "killactions": {
+                "slashed": 4, 
+                "busted": 10, 
+                "headshot": 4, 
+                "punctured": 11
+            }, 
+            "lastseen": 1443668762.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "jayoung", 
+            "kills": 10, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "1.251.18.82", 
+            "time": 733, 
+            "teamkilled": 0, 
+            "killed": 15, 
+            "killactions": {
+                "shredded": 6, 
+                "sprayed": 3, 
+                "punctured": 1
+            }, 
+            "lastseen": 1443660901.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "THOR", 
+            "kills": 1, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "150.107.91.46", 
+            "time": 239, 
+            "teamkilled": 0, 
+            "killed": 2, 
+            "killactions": {
+                "sprayed": 1
+            }, 
+            "lastseen": 1443663301.0, 
+            "visits": 2, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "uanrmed", 
+            "kills": 40, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "5.29.193.138", 
+            "time": 3154, 
+            "teamkilled": 0, 
+            "killed": 37, 
+            "killactions": {
+                "slashed": 1, 
+                "sprayed": 6, 
+                "busted": 7, 
+                "headshot": 10, 
+                "punctured": 16
+            }, 
+            "lastseen": 1443616379.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "/suicide", 
+            "kills": 0, 
+            "teamkills": 0, 
+            "flagactions": {}, 
+            "ip": "109.127.6.60", 
+            "time": 13, 
+            "teamkilled": 0, 
+            "killed": 0, 
+            "killactions": {}, 
+            "lastseen": 1443660361.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "gokuss3", 
+            "kills": 4, 
+            "teamkills": 0, 
+            "flagactions": {
+                "scored": 1, 
+                "stole": 1
+            }, 
+            "ip": "177.98.139.20", 
+            "time": 294, 
+            "teamkilled": 0, 
+            "killed": 20, 
+            "killactions": {
+                "splattered": 1, 
+                "peppered": 3
+            }, 
+            "lastseen": 1443630300.0, 
+            "visits": 5, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "SATAN", 
+            "kills": 11, 
+            "teamkills": 4, 
+            "flagactions": {
+                "stole": 1, 
+                "lost": 1
+            }, 
+            "ip": "160.3.59.31", 
+            "time": 318, 
+            "teamkilled": 2, 
+            "killed": 10, 
+            "killactions": {
+                "punctured": 3, 
+                "busted": 1, 
+                "splattered": 2, 
+                "headshot": 1, 
+                "peppered": 4
+            }, 
+            "lastseen": 1443625799.0, 
+            "visits": 3, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }, 
+        {
+            "name": "Temeraire", 
+            "kills": 40, 
+            "teamkills": 1, 
+            "flagactions": {}, 
+            "ip": "93.87.146.154", 
+            "time": 1679, 
+            "teamkilled": 2, 
+            "killed": 35, 
+            "killactions": {
+                "shredded": 28, 
+                "busted": 4, 
+                "gibbed": 3, 
+                "headshot": 2, 
+                "punctured": 3
+            }, 
+            "lastseen": 1443616439.0, 
+            "visits": 1, 
+            "suicides": 0, 
+            "flagteamkilled": 0, 
+            "flagteamkills": 0
+        }
+    ], 
+    "total": {
+        "suicides": 47, 
+        "kills": 4841, 
+        "teamkills": 327
+    }
+}
