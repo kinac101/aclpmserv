@@ -86,10 +86,10 @@ class LogParser:
         self.suicideMessage = "suicided"
         self.playerConnected = "logged in"
         self.playerDisconnected = "disconnected client"
-        # // Regex matching all lines that are interesting
+        # Regex matching all lines that are interesting
         self.patternLine = re.compile("\[[0-9\.]*\]")
         self.total = {
-            # // All kills + teamkills + suicides
+            # All kills + teamkills + suicides
             "kills" : 0,
             "teamkills" : 0,
             "suicides" : 0
@@ -118,46 +118,46 @@ class LogParser:
             self.datetime = dtinfo
             self.timestamp = ttt.mktime(dtinfo.timetuple())
         if self.patternLine.match(line):
-            # // Look for the names of the actor / target
+            # Look for the names of the actor / target
             items = line.split()
             actor = ""
             target = ""
             teamkill = False
-            # // Line too short, we're not interested
+            # Line too short, we're not interested
             if len(items) > 2:
                 actor = items[1]
                 target = items[-1]
             else:
                 return
-            # // Player connects
+            # Player connects
             if line.find(self.playerConnected) >= 0:
                 self.getPlayer(actor).ip = items[0][1:-1]
                 return
-            # // Player disconnects
+            # Player disconnects
             elif line.find(self.playerDisconnected) >= 0:
                 actor = items[3]
                 if actor == "cn":
-                    # // Special case for empty player name
+                    # Special case for empty player name
                     return
                 time = int(items[6])
                 self.getPlayer(actor).visits += 1
                 self.getPlayer(actor).time += time
                 self.getPlayer(actor).lastseen = self.timestamp
                 return
-            # // Loop through all the kill actions
+            # Loop through all the kill actions
             for a in self.killActions:
                 if line.find(a) >= 0:
                     self.total["kills"] += 1
-                    # // Suicided
+                    # Suicided
                     if a == self.suicideMessage:
                         self.getPlayer(actor).suicides += 1
                         self.total["suicides"] += 1
-                    # // Regular kill
+                    # Regular kill
                     else:
                         self.getPlayer(actor).incrementKillAction(a)
                         self.getPlayer(actor).kills += 1
                         self.getPlayer(target).killed += 1
-                        # // Check for teamkill
+                        # Check for teamkill
                         if line.find(self.teamkillMessage) >= 0:
                             self.getPlayer(actor).teamkills += 1
                             self.getPlayer(target).teamkilled += 1
@@ -167,19 +167,19 @@ class LogParser:
                                 self.getPlayer(target).flagteamkilled += 1
                                 self.flagbearer = None
                     if self.getPlayer(actor).ip == "":
-                        # // Set ip if ip not yet set
-                        # // This is needed for when players change name
+                        # Set ip if ip not yet set
+                        # This is needed for when players change name
                         self.getPlayer(actor).ip = items[0][1:-1]
                             
-            # // Loop through all the flag actions
+            # Loop through all the flag actions
             for a in self.flagActions:
                 if line.find(a) >= 0:
                     self.getPlayer(actor).incrementFlagAction(a)
                     if a in ["carrying"]:
-                        # // [85.196.30.159] MathiasB scored, carrying for 15
-                        # // seconds, new score 1
-                        # // displays 'scored' and 'carrying', but we want to
-                        # // count it only once
+                        # [85.196.30.159] MathiasB scored, carrying for 15
+                        # seconds, new score 1
+                        # displays 'scored' and 'carrying', but we want to
+                        # count it only once
                         self.getPlayer(actor).decrementFlagAction("scored")
                     
                     if a in ["stole","forced to pickup"]:
@@ -187,8 +187,8 @@ class LogParser:
                     else:
                         self.flagbearer = None
                     if self.getPlayer(actor).ip == "":
-                        # // set ip if ip not yet set
-                        # // this is needed for when players change name
+                        # Set ip if ip not yet set
+                        # This is needed for when players change name
                         self.getPlayer(actor).ip = items[0][1:-1]
 
     def __getstate__(self):        
