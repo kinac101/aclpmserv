@@ -20,5 +20,5 @@ To combine multiple *.json files
 Output for both of these features is written to an automatically generated
 `output.json` file.
 
-Want to know more about KiN? [kinac.ml](http://www.kinac.ml) for more
+Want to know more about KiN? See [kinac.ml](http://www.kinac.ml) for more
 information. We are recruiting.
