@@ -58,28 +58,12 @@ class LogParser:
     def __init__(self):
         self.players = {}
         self.killActions = [
-            "busted",
-            "picked off",
-            "peppered",
-            "sprayed",
-            "punctured",
-            "shredded",
-            "slashed",
-            "splattered",
-            "headshot",
-            "gibbed",
-            "suicided"
-        ]
+            "busted", "picked off", "peppered", "sprayed", "punctured",
+            "shredded", "slashed", "splattered", "headshot", "gibbed",
+            "suicided"]
         self.flagActions = [
-            "scored",
-            "returned",
-            "lost",
-            "stole",
-            "dropped",
-            "hunted",
-            "forced to pickup",
-            "carrying"
-        ]
+            "scored", "returned", "lost", "stole", "dropped", "hunted",
+            "forced to pickup", "carrying"]
         self.flagbearer = None        
         self.teamkillMessage = "their teammate"
         self.suicideMessage = "suicided"
@@ -87,10 +71,7 @@ class LogParser:
         self.playerDisconnected = "disconnected client"
         self.patternLine = re.compile("\[[0-9\.]*\]")
         self.total = {
-            "kills" : 0,
-            "teamkills" : 0,
-            "suicides" : 0
-        }
+            "kills" : 0, "teamkills" : 0, "suicides" : 0}
         self.timestamp = 0
 
     def getPlayer(self, name):
