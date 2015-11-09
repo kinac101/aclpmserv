@@ -15,7 +15,7 @@ To parse *.log file
 
 To combine multiple *.json files
 
-    $  python merger.py
+    $  python parser.py combine
 
 Want to know more about KiN? [kinac.ml](http://www.kinac.ml) for more
 information. We are recruiting.
