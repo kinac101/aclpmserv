@@ -5,7 +5,7 @@ Brought to you by the AssaultCube KiN clan
 License: GPL2
 
 **aclpmserv** (*AssaultCube log parser for multiple servers*) is an extension of
-*DenBeke/AC-Log_parser* tool for managing the (i.) parsing of *.log files; and
+DenBeke/AC-Log_parser tool for managing the (i.) parsing of *.log files; and
 (ii.) the merging of multiple parsed *.log files (in *.json format) upon
 receiving them  from different servers. The tool runs on Python 2.7.
 
