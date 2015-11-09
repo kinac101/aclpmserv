@@ -29,4 +29,4 @@ the log parser. Kindly refer to
 timestamp and the merging of multiple *.json files
 
 Want to know more about KiN? See [kinac.ml](http://www.kinac.ml) for more
-information. We are recruiting.
+information.
