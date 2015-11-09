@@ -119,7 +119,6 @@ class LogParser:
             actor = ""
             target = ""
             teamkill = False
-            # Line too short, we're not interested
             if len(items) > 2:
                 actor = items[1]
                 target = items[-1]
