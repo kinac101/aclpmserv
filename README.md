@@ -1,5 +1,7 @@
 aclpmserv
 =========
+
+[![Join the chat at https://gitter.im/kinac101/aclpmserv](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kinac101/aclpmserv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Brought to you by the AssaultCube KiN clan
 
 License: GPL2
